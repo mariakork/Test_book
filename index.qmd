@@ -4,7 +4,7 @@ bibliography: references.bib
 
 ## Welcome {.unnumbered}
 
-Welcome splash page! Provide an overview of the book.
+SPARE Project.
 
 Sample evaluation of R and Python in a side-by-side manner:
 
