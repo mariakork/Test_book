@@ -3,11 +3,11 @@ project:
   output-dir: _book
   
 book:
-  title: "This is the title"
-  author: "Kari Nordmann"
+  title: "Bynatur Atlas"
+  author: "Maria Korkou"
   description: | 
     Add some description here if you like.
-  repo-url: https://github.com/NINAnor/NINA-ebook-template
+  repo-url: https://mariakork.github.io/Test_book/
   repo-branch: main
   repo-actions: [edit]
   sharing: [twitter, facebook, linkedin]
